@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+<div align="center">
+  <h1>🎉 Hello, I'm ZEC 🥳</h1>
+  <p>
+    <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a>
+  </p>
+</div>
 <!--
 **ZEC-dev/ZEC-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

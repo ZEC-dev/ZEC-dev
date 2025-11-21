@@ -8,7 +8,7 @@
 
 ## end##
 
-![](https://skillicons.dev/icons?i=js,html,css,cpp,ts,java,python,markdown,latex,wordpress&theme=dark#gh-light-mode-only)  
+![]([https://skillicons.dev/icons?i=js,html,css,cpp,ts,java,python,markdown,latex,wordpress&theme=dark#gh-light-mode-only](https://skillicons.dev/icons?i=js,html,css,cpp,ts,java,python,markdown,latex,wordpress,c,go,rust,qt&theme=dark#gh-light-mode-only))  
  ~~end~~
 <!--
 **ZEC-dev/ZEC-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

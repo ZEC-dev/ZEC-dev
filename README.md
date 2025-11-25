@@ -1,26 +1,19 @@
-## Hi there 👋
 <div align="center">
-  <h1>🎉 Hello, I'm ZEC 🥳</h1>
-  <p>
-    <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a>
-  </p>
+  <h1>🎉 Hello, I'm lailai 🥳</h1>
+  <p>English | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.ko.md">한국어</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a> | <a href="README.ru.md">русский</a></p>
 </div>
 
-## end##
+🎓 I am a middle school student from Hangzhou, China.
 
-![]([https://skillicons.dev/icons?i=js,html,css,cpp,ts,java,python,markdown,latex,wordpress&theme=dark#gh-light-mode-only](https://skillicons.dev/icons?i=js,html,css,cpp,ts,java,python,markdown,latex,wordpress,c,go,rust,qt&theme=dark#gh-light-mode-only))  
- ~~end~~
-<!--
-**ZEC-dev/ZEC-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about mathematics and programming, enthusiastic about technology, and enjoy exploring new things.
 
-Here are some ideas to get you started:
+💡 Strong self-learning ability and problem-solving skills, good at independent thinking and hands-on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Focus on clean and standardized code, pursuing clear structure and consistent style.
+
+✍️ Enjoy organizing the learning process and recording thoughts for convenient communication and sharing.
+
+![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
+
+![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-dark-mode-only)
